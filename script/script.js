@@ -17,6 +17,7 @@ div1.appendChild(h2);
 div1.appendChild(h3)
 div1.appendChild(h4)
 div1.classList.add('div1')
+
 paper.addEventListener('click',function(){
     playerSelection='paper';
 })

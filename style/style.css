@@ -3,6 +3,28 @@ section{
     
     justify-content: center;
 }
-div{
-    display: block;
+/* .div1{
+    position: relative;
+    right: 29vw;
+    top: 17vw;
+    
+} */
+img{
+    width: 15vw;
+    height: 15vw;
+}
+img:hover{
+    opacity: 4;
+}
+#play{
+    position: relative;
+    top:10vw;
+    left: 20vw;
+    width: 10vw;
+    height: 2vw;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: antiquewhite;
+}
+#play:hover{
+    background-color: burlywood;
 }
